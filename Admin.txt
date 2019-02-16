@@ -1,0 +1,3 @@
+ippy 123 ADM_001 /Users/olishiz/NetBeansProjects/OOP_2_Project_Stock_Management/images/ProfilePic1.jpg System_Administrator ipkarhoe@gmail.com 018-6632500 987654
+oliversim 123 ADM_002 /Users/olishiz/NetBeansProjects/OOP_2_Project_Stock_Management/images/ProfilePic2.jpg Store_Manager oliversim@gmail.com 016-8694900 123456
+misskiu 123 ADM_002 /Users/olishiz/NetBeansProjects/OOP_2_Project_Stock_Management/images/mudkip.png Lecturer kiu@gmail.com 123213 123123

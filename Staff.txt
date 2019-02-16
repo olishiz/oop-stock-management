@@ -1,0 +1,2 @@
+edward.go 123 STA_001 /Users/olishiz/NetBeansProjects/OOP_2_Project_Stock_Management/images/ProfilePic3.jpg Employee edwardgo888@gmail.com 016-1232222
+yipwei.zhen 123 STA_002 /Users/olishiz/NetBeansProjects/OOP_2_Project_Stock_Management/images/ProfilePic4.jpg Employee yipweizhen888@gmail.com 017-3334444

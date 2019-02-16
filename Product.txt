@@ -1,0 +1,45 @@
+A001 images/BakedBeans.jpg 5.0 400.0 80 11/3/2015 24/7/2018
+AYAM BRAND Baked Beans
+Big and tender imported Great Northern Beans in Tasty Tomato Sauce
+AYAM BRAND
+
+A002 images/SweetPeas.jpg 4.5 400.0 0 12/1/2016 25/12/2019
+GREEN GIANT Sweet Peas
+Sweet and juicy green peas. Great for the family!
+GREEN GIANT
+
+A003 images/PeasAndCarrots.jpg 6.0 550.0 55 14/7/2015 22/3/2019
+Libby's Peas & Carrots
+A wonderful culmination of flavours fresh off the farm.
+Libby's
+
+F001 images/FruitCocktail.jpg 10.0 600.0 75 11/1/2016 22/12/2019
+Libby's Fruit Cocktail
+A delicious combination of fruity flavours all in one can!
+Libby's
+
+M001 images/Spam.jpg 10.0 700.0 100 22/5/2014 26/7/2018
+Hormel Foods Spam
+Good meat
+Hormel Foods
+
+M002 images/Tuna.jpg 12.0 850.0 90 09/11/2014 22/6/2018
+StarKist Solid White Albacore Tuna
+High quality seafood that's certain to entertain your tastebuds!
+StarKist
+
+S001 images/MushroomSoup.jpg 16.0 750.0 120 22/5/2016 29/4/2020
+Campbell's Cream of Mushroom
+Creamy and delicious soup infused with Cream of Mushroom for a delightful side dish.
+Campbell's
+
+S002 images/TomatoSoup.png 14.0 750.0 120 22/5/2016 29/4/2020
+Campbell's Tomato Soup
+Condensed soup rich with the zesty flavours of Tomato
+Campbell's
+
+LL01 /Users/olishiz/NetBeansProjects/OOP_2_Project_Stock_Management/images/Milo.jpg 900.0 900.0 100 2009 2018
+Longan
+Longan is tasty
+Kiu Corp
+
